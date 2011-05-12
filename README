@@ -1,0 +1,7 @@
+Heaver-it is a small and free software to manage notes. It is written in JQuery and PHP.
+
+The idea is to have a virtual backlog for agile software development so you can stick virtual notes on it. Paper ones aren't very Green IT.
+
+As data is stored in a simple JSON file, you can put it in your version control system. Yeah !
+
+The term "Post-it" and the canary yellow color are trademarks of 3M (source: http://en.wikipedia.org/wiki/Post-it). Thanks 3M for not sueing me.
